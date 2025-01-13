@@ -1,30 +1,33 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+### Hi there 👋
 
+My name is zhiming, I'm a Frontend Engineer from China NanJiing. I'm currently working at [yunzhangfang](https://www.yunzhangfang.com) and I'm really excited about web development.
+
+
+有心人即便打杂，也不忘学艺。
+
+我喜欢这句话，它激励着我不断学习和进步。
+
+
+### About me
+- 📚 9年高级前端开发经验，2年前端团队管理经验，曾任职YOHO!BUY、云帐房等公司。
+- 🔭 前端技术栈的熟练应用：React(Next.js)、Vue(Nuxt.js)、Less/Sass、Typescript、Tailwindcss、Antd、Element-ui、Lodash、Axios等各种库，具备良好的代码规范和编程习惯。
+- 🛠️ 工具和构建流程的熟练应用：Vite、Webpack、Rollup、Gulp、Babel、Nginx等工具，能够配置复杂的构建流程，熟悉插件开发机制。
+- 📖 了解后端Node.js开发，熟悉express、nestjs、koa2等框架，熟悉mysql、mongodb等数据库。
+- 🧱 多年实战经验，具备出色的问题解决和调试能力，能迅速定位并解决前端各类问题。
+- 🤝 善于团队协作，与不同岗位人员高效沟通，共同推进项目进展。
+- 🌱 持续关注前端技术动态，了解最新的前端技术和工具，不断提升自己的技能水平。
+- 😀 欢迎志同道合的朋友一起交流学习，共同进步。
+
+Follow me:
+- 📫 Gmail: huzhiming0822@gmail.com
+- 📱 WeChat: xxxxx
+- 📞 Phone: xxxxx
 ###
 
-<p align="left">My name is zhimingand I'm a javascript developer, from China NanJiing. I'm currently working at <a href="https://www.yunzhangfang.com">yunzhangfang</a> and I'm really excited about it.</p>
+- [![Twitter](https://img.shields.io/twitter/follow/zhiming__hu?style=social)](https://x.com/zhiming__hu?s=21&t=GSeDQheLe1JQb80-ks-ciA)
+- [![GitHub](https://img.shields.io/github/followers/huzhiming?style=social)](https://github.com/huzhiming)
 
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
+### I code with
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -72,19 +75,6 @@
 
 ###
 
-<h2 align="left">I'm on github</h2>
-
-###
-
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/huzhiming/huzhiming/output/snake.svg" alt="Snake animation" />
-
-<br clear="both" />
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=huzhiming&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=huzhiming&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-
-###
