@@ -73,8 +73,12 @@ Follow me:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
 </div>
 
-###
-
 <br clear="both">
 
+### I'm on github.
+
 <img src="https://raw.githubusercontent.com/huzhiming/huzhiming/output/snake.svg" alt="Snake animation" />
+
+<div align="left">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
