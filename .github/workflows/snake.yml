@@ -23,7 +23,14 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
-
+          customizations: |
+            {
+              "text": "Hello, Zhiming!",
+              "color": "#58a55d",
+              "fontSize": 24,
+              "snake": "#0000FF",
+              "background": "#000000"
+            }
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
